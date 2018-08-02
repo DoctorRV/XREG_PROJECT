@@ -1,0 +1,23 @@
+//Application Binary Interface of the deployed contract
+
+
+[{"constant":true,"inputs":[{"name":"","type":"bytes32"}],"name":"ratingsReceived","outputs":[{"name":"","type":"uint8"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"ICOList","outputs":[{"name":"","type":"bytes32"}],"payable":false,"stateMutability":"view","type":"function"},{"inputs":[{"name":"ICONames","type":"bytes32[]"}],"payable":false,"stateMutability":"nonpayable","type":"constructor"},{"constant":true,"inputs":[{"name":"ICO","type":"bytes32"}],"name":"totalVotesFor","outputs":[{"name":"","type":"uint8"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"ICO","type":"bytes32"}],"name":"voteForICO","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]
+
+
+// Deployed Contract address
+0x248b709b298ef92510e67b0133678bbe19b1983f
+
+
+// Color scheme
+
+#6D0EE7
+
+
+
+
+
+
+
+
+
+
